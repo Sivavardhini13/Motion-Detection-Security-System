@@ -65,4 +65,4 @@ Press **Q** to close all windows and exit the program.
 
 The application detects motion in real time using the webcam, highlights the detected object with a green bounding box, and displays the current detection status.
 
-![Motion Detection Demo](demo.png)<img width="1366" height="768" alt="demo" src="https://github.com/user-attachments/assets/e2dbb69b-8530-42e8-a77c-979e17ff72c2" />
+<img width="1366" height="768" alt="demo" src="https://github.com/user-attachments/assets/e2dbb69b-8530-42e8-a77c-979e17ff72c2" />
